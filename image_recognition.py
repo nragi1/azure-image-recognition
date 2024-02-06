@@ -9,6 +9,7 @@ from azure.core.exceptions import HttpResponseError
 # Help and rules for the image recognition
 def rules():
     return ("""
+            Use the command 'analyse' to analyse an image or 'exit' to exit \n
             The image must be presented in JPEG, PNG, GIF, BMP, WEBP, ICO, TIFF, or MPO format \n
             The image file size must be less than 20MB \n
             The image dimensions must be at least 50 x 50 but less than 16000 x 16000 pixels
