@@ -13,12 +13,10 @@ I developed this project to help me explore Azure cloud technologies and improve
 - The code uses async/await syntax to handle asynchronous operations efficiently, allowing non-blocking execution of code.
 - Error Handling connected to Azure
 
-**note**:Ensure image file size is less than 20MB and verify image dimensions are at least 50x50 pixels but less than 16000x16000 pixels.
-
-
 ## Requirements
 - Python 3.8+
 - Azure subscription (The free tier for Azure AI Services will work fine with this program)
+- Images used with this program must be less than 20MB and dimensions must be at least 50x50 pixels but no more than 16000x16000 pixels
 
 ## Installation
 1. Clone the repo to your machine and install the Python packages
