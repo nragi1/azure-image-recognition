@@ -1,9 +1,9 @@
 # Image Recognition Project
 ## Introduction
-This is a personal image recognition project that leverages Azure AI services to perform basic image analysis and provide a caption, however I may come back to improve this in the future for personal learning.
+This is a personal image recognition project that leverages Azure AI services to perform basic image analysis and provide a caption.
 
 ## Purpose
-I developed this project to help me explore Azure cloud technologies and improve my coding skills. As somone new to this field, having only completed AZ-900, my primary goal was to learn and understand Azure AI Services.
+I developed this project to help me explore Azure cloud technologies and improve my coding skills. As somone new to this field, my primary goal was to learn and gain a basic understand Azure AI Services.
 
 ## Features
 - Analyse images in various formats, including JPEG, PNG, GIF, BMP, WEBP, ICO, TIFF, or MPO.
