@@ -29,8 +29,8 @@ pip install -r requirements.txt
   - Obtain your key and endpoint from the Azure Computer Vision resource
   - Set the environment variables
 ```bash  
-setx VISION_KEY yourkey
-setx VISION_ENPOINT yourendpoint
+setx VISION_KEY=yourkey
+setx VISION_ENPOINT=yourendpoint
 ```
 ## Usage
 - Run the program
